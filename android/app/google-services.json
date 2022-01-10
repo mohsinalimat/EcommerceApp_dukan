@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "590295929570",
+    "project_id": "shopnow-29e8b",
+    "storage_bucket": "shopnow-29e8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590295929570:android:c4b1eedd938762e769c4bb",
+        "android_client_info": {
+          "package_name": "com.example.shop_now"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590295929570-2lb4613s0jccndhgsg8pd5cvk3iti7uf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shop_now",
+            "certificate_hash": "c323ab24f3e4204b55c07c012047674bfea41064"
+          }
+        },
+        {
+          "client_id": "590295929570-m6l1vntbcb95o0onreicuo2onh4k70fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWJgDj1pdJdj1xbmT1iBr4Bs8rfZ29wJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590295929570-m6l1vntbcb95o0onreicuo2onh4k70fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
